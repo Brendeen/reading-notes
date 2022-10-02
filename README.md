@@ -1,4 +1,13 @@
 # Reading-Notes
-## Brenden Moore
-### Github portfolio link: 
+## Brenden Moore, software development
+
+
+
+
+
+
+
+
+
+### Link to my Github [portfolio](https://github.com/Brendeen)
 
