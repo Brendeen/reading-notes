@@ -1,5 +1,10 @@
 # Reading-Notes
+
 ## Brenden Moore, software development
+
+### 102 lab01b
+**Growth Mindset, what is it?**
+
 
 
 
