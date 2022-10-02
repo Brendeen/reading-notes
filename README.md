@@ -1,7 +1,7 @@
 # Reading-Notes
 
 ## Brenden Moore, software development
-! (This is an image) (IMG_2844.JPG)
+! [This is an image] (IMG_2844.JPG)
 
 ### 102 lab01b
 **Growth Mindset, _what is it_?**
