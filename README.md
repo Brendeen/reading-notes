@@ -1,7 +1,6 @@
 # Reading-Notes
 
 ## Brenden Moore, software development
-! [This is an image] (IMG_2844.JPG)
 
 ### 102 lab01b
 **Growth Mindset, _what is it_?**
@@ -24,4 +23,4 @@
 
 
 ### Link to my Github [portfolio](https://github.com/Brendeen)
-
+![image](https://user-images.githubusercontent.com/112737001/193438269-f12b8d96-ae84-4f5c-a826-7fbc2992fac6.png)
