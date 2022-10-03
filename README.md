@@ -4,7 +4,7 @@
 
 ### I love anime/manga, skateboarding, videogames, and hangingout with friends! <sub>Anything nerdy is up my alley<sub/>
 
-## [class_1](reading_notes_class_1.md)
+## [Class 1](reading_notes_class_1.md)
 
 
 
