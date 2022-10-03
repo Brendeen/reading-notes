@@ -22,8 +22,14 @@ You can put up to **six** pound symbols depending on what size you want.
 
 Some more examples of text can be making a word **BOLD** or *ITALICIZED*, and these are both very simple to do.
 If you want text to be **BOLD**, you must put two asterisks symbols(**) in front and after your text.
+If you want text to be *ITALICIZED*, you must put only one asterisk symbol(*) in front and after your text.
 
-If you want text to be *ITALICIZED*, you must put only one asterisks symbol(*) in front and after your text.
+Adding links and images can be important for websites as well, to add a link, first put the text you want linked into brackets [], then in parentheses () put the URL link to the website.
+
+Adding an image is just as easy but requires an extra step, first you must put an exclamation point followed by brackets ![] and type the name of the image inside the brackets, then in parentheses () place the image file inside.
+
+![Heres an example!](![image](https://user-images.githubusercontent.com/112737001/193682704-d0b43025-2e02-4832-968c-ff58728188aa.png)
+
 
 Full cheat sheet for [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) here.
 
