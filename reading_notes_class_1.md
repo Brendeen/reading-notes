@@ -12,3 +12,10 @@ In this class, we looked into what having a **Growth Mindest** is
 1. Look at every new assignment as a fun and challenging experience. ✍️
 2. Study and be passionate about my work, however big or small. 😃
 3. **LEARN FROM MISTAKES!!!** 🙌
+
+### Learning markdown...
+Markdown is a simple coding language similar to HTML with much simplier commands.
+A great example is writing a sentance. In HTML, you would have to start the line with <p> and end the line with <p/>...
+however
+
+
