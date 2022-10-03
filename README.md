@@ -1,8 +1,6 @@
-# Reading-Notes
+# Brenden Moore, aspiring software development
 
-## Brenden Moore, software development
-
-### I love anime/manga, skateboarding, videogames, and hangingout with friends! <sub>Anything nerdy is up my alley<sub/>
+I love anime/manga, skateboarding, videogames, and hangingout with friends! <sub>Anything nerdy is up my alley<sub/>
 
 ## [Class 1](reading_notes_class_1.md)
 ## [Class 2](reading_notes_class_2.md)
