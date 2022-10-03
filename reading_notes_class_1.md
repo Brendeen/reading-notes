@@ -11,3 +11,4 @@
 1. Look at every new assignment as a fun and challenging experience. ✍️
 2. Study and be passionate about my work, however big or small. 😃
 3. **LEARN FROM MISTAKES!!!** 🙌
+4. 
