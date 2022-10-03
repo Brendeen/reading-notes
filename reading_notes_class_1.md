@@ -1,6 +1,4 @@
-# Reading notes
-
-## Class 1
+# Class 1
 In this class, we looked into what having a **Growth Mindest** is
 
 **Growth Mindset, _what is it_?**
