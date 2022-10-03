@@ -14,8 +14,20 @@ In this class, we looked into what having a **Growth Mindest** is
 3. **LEARN FROM MISTAKES!!!** 🙌
 
 ### Learning markdown...
-Markdown is a simple coding language similar to HTML with much simplier commands.
-A great example is writing a sentance. In HTML, you would have to start the line with <p> and end the line with <p/>...
-however
+- Markdown is a simple markup coding language similar to HTML with much simplier commands.
+- Markdown is not a WYSIWYG kind of program, there are a few things you have to write to make your code work.
+
+For example, to make a heading, you must put pound symbol(#) with a space before typing your title.
+You can put up to **six** pound symbols depending on what size you want.
+
+Some more examples of text can be making a word **BOLD** or *ITALICIZED*, and these are both very simple to do.
+If you want text to be **BOLD**, you must put two asterisks symbols(**) in front and after your text.
+
+If you want text to be *ITALICIZED*, you must put only one asterisks symbol(*) in front and after your text.
+
+Full cheat sheet for [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) here.
+
+
+
 
 
