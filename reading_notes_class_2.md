@@ -34,10 +34,12 @@ Useful commands that i have found so far include-
 4. cd .., this command will take you back a step or to a previous file. the more periods (.) you add, the further back it will go. .... will make you go back 3 pages.
 
 Those are only some basic commands, there are tons to try out!
-[Terminal Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+[Terminal Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) 🙌
 
 *Paths* are another important part about command lines
 - There are two types of paths, **Absolute** and **Relative**.
 - **Absolute** paths will specify a directory/file in the root directory and will begin with a /.
 - **Relative** paths will specify a directory/file depending on where you are in the system.
+
+One last important detail with the terminal is it is very sensitive! Make sure the command you are running is spelled correctly and doesnt have any unneeded capitals or spaces!!! 😵‍💫
 
