@@ -4,6 +4,7 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! <sub
 
 ## [Class 1](reading_notes_class_1.md)
 ## [Class 2](reading_notes_class_2.md)
+## [class 3](reading_notes_class_3.md)
 
 
 
