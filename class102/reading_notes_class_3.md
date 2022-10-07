@@ -1,6 +1,6 @@
 # Class 3
 
-[Back to home page](../class%20102/README.md)
+[Back to home page](../README.md)
 
 In this class we learned about **The cloud** and **Making revisions**. We also learned alot about git and uploading our work from vscode to github.
 

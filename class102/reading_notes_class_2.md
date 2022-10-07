@@ -1,6 +1,6 @@
 # Class 2
 
-[Back to home page](../class%20102/README.md)
+[Back to home page](../README.md)
 
 In this class, we looked into **Text Editors** and why they are important.
 

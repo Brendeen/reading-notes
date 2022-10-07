@@ -1,3 +1,3 @@
 # Class 4
 
-[Back to home page](../class%20102/README.md)
+[Back to home page](../README.md)
