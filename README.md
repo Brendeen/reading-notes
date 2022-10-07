@@ -24,35 +24,35 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 201 Readings-
 
-### [Class 1](reading1.md)
+### [Class 1](class201/reading1.md)
 
-### [Class 2](reading2.md)
+### [Class 2](class201/reading2.md)
 
-### [Class 3](reading3.md)
+### [Class 3](class201/reading3.md)
 
-### [Class 4](reading4.md)
+### [Class 4](class201/reading4.md)
 
-### [Class 5](reading5.md)
+### [Class 5](class201/reading5.md)
 
-### [Class 6](reading6.md)
+### [Class 6](class201/reading6.md)
 
-### [Class 7](reading7.md)
+### [Class 7](class201/reading7.md)
 
-### [Class 8](reading8.md)
+### [Class 8](class201/reading8.md)
 
-### [Class 9](reading9.md)
+### [Class 9](class201/reading9.md)
 
-### [Class 10](reading10.md)
+### [Class 10](class201/reading10.md)
 
-### [Class 11](reading11.md)
+### [Class 11](class201/reading11.md)
 
-### [Class 12](reading12.md)
+### [Class 12](class201/reading12.md)
 
-### [Class 13](reading13.md)
+### [Class 13](class201/reading13.md)
 
-### [Class 14](reading14.md)
+### [Class 14](class201/reading14.md)
 
-### [Class 15](reading15.md)
+### [Class 15](class201/reading15.md)
 
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
