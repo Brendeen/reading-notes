@@ -1,5 +1,9 @@
 # Class 2
+
+[Back to home page](../class%20102/README.md)
+
 In this class, we looked into **Text Editors** and why they are important.
+
 - Text editors are super important for developers because thats where they write all their code, so its important to know which program is right for you!
 - Each text editor is different and includes features you can download or are pre-loaded onto the program already.
 
@@ -14,6 +18,7 @@ Pluggins are also a great way to get more done with less work, and can be game c
 Every computer also comes with its own text editor pre installed, but is not recommended sense there are very few features set up within these programs.
 
 Some examples of text editors are-
+
 - VScode
 - Sublime text
 - Brackets
@@ -37,6 +42,7 @@ Those are only some basic commands, there are tons to try out!
 [Terminal Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) 🙌
 
 *Paths* are another important part about command lines
+
 - There are two types of paths, **Absolute** and **Relative**.
 - **Absolute** paths will specify a directory/file in the root directory and will begin with a /.
 - **Relative** paths will specify a directory/file depending on where you are in the system.
