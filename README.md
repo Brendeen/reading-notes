@@ -4,21 +4,21 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ## Table of contents
 
-### [Class 1](reading_notes_class_1.md)
+### [Class 1](class102/reading_notes_class_1.md)
 
-### [Class 2](reading_notes_class_2.md)
+### [Class 2](class102/reading_notes_class_2.md)
 
-### [class 3](reading_notes_class_3.md)
+### [class 3](class102/reading_notes_class_3.md)
 
-### [Class 4](reading_notes_class_4.md)
+### [Class 4](class102/reading_notes_class_4.md)
 
-### [Class 5](reading_notes_class_5.md)
+### [Class 5](class102/reading_notes_class_5.md)
 
-### [Class 6](reading_notes_class_6.md)
+### [Class 6](class102/reading_notes_class_6.md)
 
-### [Class 7](reading_notes_class_7.md)
+### [Class 7](class102/reading_notes_class_7.md)
 
-### [Class 8](reading_notes_class_8.md)
+### [Class 8](class102/reading_notes_class_8.md)
 
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
