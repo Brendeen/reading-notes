@@ -1,6 +1,6 @@
 # Class 1
 
-[Back to home page](../class%20102/README.md)
+[Back to home page](../README.md)
 
 In this class, we looked into what having a **Growth Mindest** is
 
