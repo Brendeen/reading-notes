@@ -48,4 +48,3 @@ Those are only some basic commands, there are tons to try out!
 - **Relative** paths will specify a directory/file depending on where you are in the system.
 
 One last important detail with the terminal is it is very sensitive! Make sure the command you are running is spelled correctly and doesnt have any unneeded capitals or spaces!!! 😵‍💫
-
