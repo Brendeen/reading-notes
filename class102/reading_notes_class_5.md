@@ -4,6 +4,12 @@
 
 In this class, we looked at **CSS**, or *Cascading Style Sheets*.
 
+Quick vocab: 
+- selector, the way you can grab the html element you want to style
+-property, what exactly you want changed about the element
+- value, the style you want to change the element to
+-{}, curly braces, what css uses to style
+
 If html is the structure, or the skeleton of a website, than html is the styling or clothing, accesories, and hair of a website. Css is what makes a website look unique from everything else on the web.
 
 ## What is Css?
