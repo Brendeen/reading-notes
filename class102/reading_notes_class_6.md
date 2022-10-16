@@ -38,7 +38,9 @@ In this prompt example, the user types their name in the box and presses ok. The
 
 if (confirm("Shall I print Hello World?")) {
     document.write("Hello World");
-} else {
+}
+
+else {
     document.write("OK, I won't print it.");
 }
 
