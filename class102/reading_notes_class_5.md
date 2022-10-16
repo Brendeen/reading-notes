@@ -4,7 +4,8 @@
 
 In this class, we looked at **CSS**, or *Cascading Style Sheets*.
 
-Quick vocab: 
+Quick vocab:
+
 - selector, the way you can grab the html element you want to style
 -property, what exactly you want changed about the element
 - value, the style you want to change the element to
