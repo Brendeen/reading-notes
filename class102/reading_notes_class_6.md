@@ -69,3 +69,12 @@ All variables in javascript should have an identifier, or a name for the variabl
 #### Debugging
 
 Debugging, or *finding and fixing errors* in your code, is a very important part of javascript. Most browsers will have a hidden window called a JavaScript console where the browser can write warnings/errors that have been executed by javascript. Developers can also write debug information in the console by using the command console.log(). To open the console on Chrome use the following button prompt: **Command-Option-J**
+
+#### How do computers work?
+
+Computers work off of 1's and 0's which is called a **Binary System**. They represent on(1) and off(0). But its much more complex then it sounds. Every computer has 4 steps to get content output-
+
+1. Input, whatever we touch, type, press, whatever we ask the computer to do, thats our input.
+2. Storage, the computer will then take whatever we asked from it and store it.
+3. Processing, the computer will process what it wanted us to do, meaning all the electrical currents will begin to generate 1's and 0's based on our command.
+4. Output, the computer will then push the output of our command to the physical world.
