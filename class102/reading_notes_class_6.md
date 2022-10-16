@@ -78,3 +78,5 @@ Computers work off of 1's and 0's which is called a **Binary System**. They repr
 2. Storage, the computer will then take whatever we asked from it and store it.
 3. Processing, the computer will process what it wanted us to do, meaning all the electrical currents will begin to generate 1's and 0's based on our command.
 4. Output, the computer will then push the output of our command to the physical world.
+
+Here is a collection of videos explaining [How-Computers-Work](https://www.youtube.com/watch?v=xnyFYiK2rSY&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=6).
