@@ -12,7 +12,7 @@ Control structures are very common for javascript and include structures like *c
 
 ## What is a Function?
 
-Functions are made by writing the "function" keyword and a name, then adding parrentheses. () parameters are placed inside the parrentheses.
+Functions are made by writing the "function" keyword and a name, then adding parrentheses. () parameters are placed inside the parrentheses. The benefit of functions is you can use the **Return** feature to return previously used code to use again. you can also invoke or call functions multiple times.
 
 function name(parameter1, parameter2, ... ) {
 
