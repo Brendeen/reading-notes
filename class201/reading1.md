@@ -49,8 +49,6 @@ Html docs consist of the Head and Body enclosed by an html tag.
 
 - The body of an html document are all the content present on the page. Paragraphs, links, images, everything the user needs to see presented in information goes here.
 
-
-
 ## Things i want to learn more about--
 
 I want to know more about JS variables and go more in depth into the language itself. More practice and review of these concepts especially writing and executing JS commands.
