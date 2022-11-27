@@ -4,13 +4,23 @@
 
 ## The web, what is it?
 
+A short poem on Https...
+
+Hello, i am browser
+
+i send requests using https
+
+Hello server, may i have a copy for my client?
+
+But of course browser, ill send one dont stress!
+
 The web stores all kinds of websites, code, and information. And interacting with the web to us is as simple as clicking a button, but theres alot more to it.
 
 - Client side: or the side that we are on. The user will put in a command/request through the client side which will be sent to the...
 
 - Server side: The other side of the web that will take the request from the user and send back a piece of content to the client side.
 
-- There is of course much more that goes into these interactions though.
+- There is of course much more that goes into these interactions though
 
 Every website is different, developers will usually start out with a rough sketch of what they want the page to look like, and adding details like size, font, color, images, anything that would stand out in your page. Things like fonts and images can be found easily on other websites that can be downloaded. But if you want to stay away from copyright claims on your page, its best to search for these things using the **Creative Commons** search option in your browser. Most websites contain the following 3 languages: HTML, CSS and JavaScript. These 3 languages are the foundation, styling, and interactible features.
 
