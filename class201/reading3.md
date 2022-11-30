@@ -38,7 +38,7 @@
 
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-- 
+- It is a multidimensional array, which is an array inside an array and seems have data on multiple people. acces the data by typing the name desired and "0,0"
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
 
