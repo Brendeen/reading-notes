@@ -53,3 +53,7 @@ Pick 2 benefits to pair programming and reflect on how these benefits could help
 - Learning from fellow students is a big part of learning code for me, so if i can learn and build a website with someone else, then we can offer second oppinions to eachother. As well as someone might pick on one skill while the other struggles allowing them to share their knowledge and teach eachother.
 
 - Working with a partner will help you get ready for the future work enviroment and job interview as its common to work with another employee/s on projects. This will help you get ready for working in a work place with other employees and give partner experience for job interviews.
+
+## Things i want to learn more about
+
+I want to learn more about the block-level element. Inline is a firmiliar concept to me and we just started learning about the box model, so i want to know if they are similar in any ways.
