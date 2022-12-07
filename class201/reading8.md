@@ -24,7 +24,7 @@ Q. What are some advantages of using flexbox over float?
 
 Q. How does this topic connect with your long term goals?
 
-- This concept makes positioning content blocks in css much more managable, this relates to my goal of getting a job in the industry because this concept shows you how easy it is to move content boxes around in a css file.
+- This concept makes positioning content blocks in css much more managable, this relates to my goal of getting a job in the industry because this concept shows you how easy it is to move content boxes around in a css file, and showing how theres an answer for every css issue. i can always grow my learning especially of css.
 
 ## Things I want to learn more about
 
