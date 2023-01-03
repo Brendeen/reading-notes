@@ -4,7 +4,7 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ## Table of contents
 
-102 Readings-
+## 102 Readings-
 
 ### [Class 1](class102/reading_notes_class_1.md)
 
