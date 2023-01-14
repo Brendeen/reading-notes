@@ -32,7 +32,7 @@ Q. List 4 things that the spread operator can do.
 
 Q. Give an example of using the spread operator to combine two arrays.
 
-- ![Combining arrays using spread](../301-pictures/combining-arrays.png)
+- ![Combining arrays using spread](../301-pictures/combining%202%20arrays.png)
 
 Q. Give an example of using the spread operator to add a new item to an array.
 
