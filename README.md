@@ -88,6 +88,40 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ## 401 Readings-
 
+### [Prework SQL](class401/prework-sql.md)
+
+### [Prework Bash](class401/prework-bash.md)
+
+### [Class 1](class401/reading1.md)
+
+### [Class 2](class401/reading2.md)
+
+### [Class 3](class401/reading3.md)
+
+### [Class 4](class401/reading4.md)
+
+### [Class 5](class401/reading5.md)
+
+### [Class 6](class401/reading6.md)
+
+### [Class 7](class401/reading7.md)
+
+### [Class 8](class401/reading8.md)
+
+### [Class 9](class401/reading9.md)
+
+### [Class 10](class401/reading10.md)
+
+### [Class 11](class401/reading11.md)
+
+### [Class 12](class401/reading12.md)
+
+### [Class 13](class401/reading13.md)
+
+### [Class 14](class401/reading14.md)
+
+### [Class 15](class401/reading15.md)
+
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
 ![image](https://user-images.githubusercontent.com/112737001/193438269-f12b8d96-ae84-4f5c-a826-7fbc2992fac6.png)
