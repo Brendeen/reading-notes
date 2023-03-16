@@ -92,6 +92,8 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ### [Prework Bash](class401/prework-bash.md)
 
+### [Prework Engineering](class401/prework-engineering.md)
+
 ### [Class 1](class401/reading1.md)
 
 ### [Class 2](class401/reading2.md)
