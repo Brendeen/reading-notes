@@ -94,6 +94,8 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ### [Prework Growth Mindest](class401/prework-growth-mindset.md)
 
+### [Prework Data structures](class401/prework-data-structures.md)
+
 ### [Prework Engineering](class401/prework-engineering.md)
 
 ### [Class 1](class401/reading1.md)
