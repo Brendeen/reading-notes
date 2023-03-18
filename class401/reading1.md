@@ -28,6 +28,11 @@ Points to take away/ remember:
 - python is dynamic, no assigned names
 - python has no variables
 
+## Bookmark
+
+- [Awesome Python Environment](https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5)
+- [Python Module of the Week](https://pymotw.com/3/index.html)
+
 ## Things I want to know more about
 
 These are all brand new topics Im having to wrap my head around, is it alright to not understand them so far? (Especially the video)
