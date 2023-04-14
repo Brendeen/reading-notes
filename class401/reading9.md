@@ -8,7 +8,7 @@ Q. What is the purpose of dunder methods in Python? Provide an example of a comm
 
 - Double-underscore methods in python are special methods that are used to define specific behavior to built-in python functions/operators. A common example is the __str__ method that is used too define how an object will view a string.
 
-![__str__ method example](../401-pictures/__str__-method.png)
+![__str__ method example](../401-pictures/dunder-str-method.png)
 
 ## AI guru
 
