@@ -128,6 +128,16 @@ I love anime/manga, skateboarding, videogames, and hangingout with friends! Anyt
 
 ### [Class 15](class401/reading15.md)
 
+### [Class 16](class401/reading16.md)
+
+### [Class 17](class401/reading17.md)
+
+### [Class 18](class401/reading18.md)
+
+### [Class 19](class401/reading19.md)
+
+### [Class 20](class401/reading20.md)
+
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
 ![image](https://user-images.githubusercontent.com/112737001/193438269-f12b8d96-ae84-4f5c-a826-7fbc2992fac6.png)
