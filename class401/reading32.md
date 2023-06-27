@@ -1,3 +1,3 @@
-# Class 30
+# Class 32
 
 [Back to home page](../README.md)
