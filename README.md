@@ -1,6 +1,6 @@
 # Brenden Moore, aspiring software developer
 
-I love anime/manga, skateboarding, videogames, and hangingout with friends! Anything nerdy is up my alley
+My class notes for Code Fellows Bootcamp.
 
 ## Table of contents
 
