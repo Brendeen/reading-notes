@@ -154,6 +154,14 @@ My class notes for Code Fellows Bootcamp.
 
 ### [Class 36](class401/reading36.md)
 
+### [Class 37](class401/reading37.md)
+
+### [Class 38](class401/reading38.md)
+
+### [Class 39](class401/reading39.md)
+
+### [Class 40](class401/reading40.md)
+
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
 ![image](https://user-images.githubusercontent.com/112737001/193438269-f12b8d96-ae84-4f5c-a826-7fbc2992fac6.png)
