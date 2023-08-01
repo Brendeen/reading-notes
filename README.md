@@ -1,4 +1,4 @@
-# Brenden Moore, aspiring software developer
+# Brenden Moore, software developer
 
 My class notes for Code Fellows Bootcamp.
 
@@ -171,5 +171,3 @@ My class notes for Code Fellows Bootcamp.
 ### [Class 45](class401/reading45.md)
 
 #### Link to my Github [portfolio](https://github.com/Brendeen)
-
-![image](https://user-images.githubusercontent.com/112737001/193438269-f12b8d96-ae84-4f5c-a826-7fbc2992fac6.png)
