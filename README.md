@@ -160,7 +160,7 @@ My class notes for Code Fellows Bootcamp.
 
 ### [Class 39](class401/reading39.md)
 
-### [Class 40](class401/reading40.md)
+### [Class 41](class401/reading41.md)
 
 #### Link to my Github [portfolio](https://github.com/Brendeen)
 
